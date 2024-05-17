@@ -1,0 +1,248 @@
+024257 Missing: runStop.run024257.dat
+025239 Missing: sensorHk025239.root runStop.run025239.dat
+025238 Missing: runStop.run025238.dat
+024575 Missing: sensorHk024575.root
+025116 Missing: sensorHk025116.root
+025113 Missing: sensorHk025113.root runStop.run025113.dat
+025436 Missing: sensorHk025436.root runStop.run025436.dat
+024671 Missing: sensorHk024671.root runStop.run024671.dat
+026006 Missing: runStop.run026006.dat
+025980 Missing: sensorHk025980.root
+025593 Missing: sensorHk025593.root runStop.run025593.dat
+025591 Missing: runStop.run025591.dat
+025727 Missing: runStop.run025727.dat
+024665 Missing: runStop.run024665.dat
+024449 Missing: sensorHk024449.root
+026158 Missing: sensorHk026158.root
+026162 Missing: sensorHk026162.root runStop.run026162.dat
+023296 Missing: sensorHk023296.root configFile.023296.dat monitor.run023296.dat runStart.run023296.dat runStop.run023296.dat
+023307 Missing: runStop.run023307.dat
+025395 Missing: sensorHk025395.root runStop.run025395.dat
+025394 Missing: runStop.run025394.dat
+025398 Missing: sensorHk025398.root runStop.run025398.dat
+023984 Missing: runStop.run023984.dat
+024891 Missing: sensorHk024891.root runStop.run024891.dat
+026092 Missing: sensorHk026092.root runStop.run026092.dat
+024697 Missing: sensorHk024697.root
+024941 Missing: runStop.run024941.dat
+026133 Missing: sensorHk026133.root
+025752 Missing: sensorHk025752.root runStop.run025752.dat
+025748 Missing: sensorHk025748.root runStop.run025748.dat
+023767 Missing: runStop.run023767.dat
+023713 Missing: sensorHk023713.root configFile.023713.dat monitor.run023713.dat runStart.run023713.dat runStop.run023713.dat
+025478 Missing: runStop.run025478.dat
+023299 Missing: sensorHk023299.root runStop.run023299.dat
+023300 Missing: sensorHk023300.root runStop.run023300.dat
+023323 Missing: sensorHk023323.root
+023298 Missing: sensorHk023298.root runStop.run023298.dat
+023297 Missing: sensorHk023297.root runStop.run023297.dat
+023301 Missing: eventHk023301.root sensorHk023301.root configFile.023301.dat monitor.run023301.dat runStart.run023301.dat runStop.run023301.dat
+024992 Missing: runStop.run024992.dat
+025542 Missing: sensorHk025542.root runStop.run025542.dat
+023981 Missing: runStop.run023981.dat
+024853 Missing: sensorHk024853.root runStop.run024853.dat
+024395 Missing: runStop.run024395.dat
+023999 Missing: sensorHk023999.root runStop.run023999.dat
+023997 Missing: runStop.run023997.dat
+023895 Missing: sensorHk023895.root
+023900 Missing: sensorHk023900.root
+023894 Missing: sensorHk023894.root runStop.run023894.dat
+025067 Missing: runStop.run025067.dat
+023656 Missing: runStop.run023656.dat
+025421 Missing: sensorHk025421.root
+024108 Missing: runStop.run024108.dat
+023339 Missing: sensorHk023339.root runStop.run023339.dat
+024785 Missing: sensorHk024785.root
+024787 Missing: eventHk024787.root sensorHk024787.root runStop.run024787.dat
+024028 Missing: sensorHk024028.root
+024027 Missing: runStop.run024027.dat
+023489 Missing: runStop.run023489.dat
+025390 Bad ratio: 0.0778976      raw: 7864320  /data/exp/ARA/2022/unbiased/SPS-ARA/0828/SPS-ARA-RAW.ARA01.run_025390.flat.tar    Event Data: 612612 B    /data/exp/ARA/2022/unblinded/L1/ARA01/0828/run025390
+025390 Missing: eventHk025390.root sensorHk025390.root runStop.run025390.dat
+023929 Missing: sensorHk023929.root
+023497 Missing: runStop.run023497.dat
+023498 Bad ratio: 0.189031       raw: 3891200  /data/exp/ARA/2022/unbiased/SPS-ARA/0123/SPS-ARA-RAW.ARA01.run_023498.flat.tar    Event Data: 735556 B    /data/exp/ARA/2022/unblinded/L1/ARA01/0123/run023498
+023498 Missing: sensorHk023498.root runStop.run023498.dat
+023558 Missing: runStop.run023558.dat
+023560 Missing: sensorHk023560.root runStop.run023560.dat
+023566 Missing: sensorHk023566.root
+025615 Missing: sensorHk025615.root
+026113 Missing: runStop.run026113.dat
+025566 Missing: runStop.run025566.dat
+023468 Missing: sensorHk023468.root
+025902 Missing: sensorHk025902.root
+023748 Missing: runStop.run023748.dat
+025169 Missing: sensorHk025169.root runStop.run025169.dat
+023372 Missing: runStop.run023372.dat
+023373 Missing: sensorHk023373.root
+025739 Missing: runStop.run025739.dat
+025740 Missing: runStop.run025740.dat
+024148 Missing: sensorHk024148.root
+024157 Bad ratio: 0.0391429      raw: 1679360  /data/exp/ARA/2022/unbiased/SPS-ARA/0416/SPS-ARA-RAW.ARA01.run_024157.flat.tar    Event Data: 65735 B     /data/exp/ARA/2022/unblinded/L1/ARA01/0416/run024157
+024157 Missing: eventHk024157.root sensorHk024157.root runStop.run024157.dat
+025527 Missing: sensorHk025527.root
+025512 Missing: runStop.run025512.dat
+024494 Missing: sensorHk024494.root
+023834 Missing: sensorHk023834.root
+026053 Missing: eventHk026053.root sensorHk026053.root runStop.run026053.dat
+026052 Missing: sensorHk026052.root
+024581 Missing: sensorHk024581.root
+025495 Missing: sensorHk025495.root runStop.run025495.dat
+025491 Missing: runStop.run025491.dat
+025490 Missing: runStop.run025490.dat
+025081 Missing: sensorHk025081.root
+023395 Missing: sensorHk023395.root
+025161 Missing: sensorHk025161.root
+025939 Missing: sensorHk025939.root runStop.run025939.dat
+024479 Missing: runStop.run024479.dat
+025689 Missing: sensorHk025689.root
+025271 Missing: sensorHk025271.root
+024761 Missing: runStop.run024761.dat
+024684 Missing: runStop.run024684.dat
+024680 Missing: sensorHk024680.root
+023595 Missing: sensorHk023595.root runStop.run023595.dat
+025817 Missing: runStop.run025817.dat
+025818 Missing: sensorHk025818.root
+025812 Missing: sensorHk025812.root runStop.run025812.dat
+025974 Missing: sensorHk025974.root configFile.025974.dat monitor.run025974.dat runStart.run025974.dat runStop.run025974.dat
+025972 Missing: runStop.run025972.dat
+023361 Missing: sensorHk023361.root
+023807 Missing: sensorHk023807.root runStop.run023807.dat
+025134 Missing: runStop.run025134.dat
+025185 Missing: sensorHk025185.root runStop.run025185.dat
+025362 Missing: sensorHk025362.root
+024116 Missing: sensorHk024116.root runStop.run024116.dat
+025634 Missing: sensorHk025634.root
+025629 Missing: runStop.run025629.dat
+025754 Missing: runStop.run025754.dat
+026141 Missing: sensorHk026141.root runStop.run026141.dat
+026137 Missing: runStop.run026137.dat
+026144 Missing: sensorHk026144.root runStop.run026144.dat
+024371 Missing: runStop.run024371.dat
+024711 Missing: runStop.run024711.dat
+025588 Missing: runStop.run025588.dat
+026027 Missing: sensorHk026027.root
+024758 Missing: sensorHk024758.root
+024073 Missing: sensorHk024073.root
+025609 Missing: sensorHk025609.root
+025603 Missing: runStop.run025603.dat
+025993 Missing: sensorHk025993.root runStop.run025993.dat
+025992 Missing: sensorHk025992.root configFile.025992.dat monitor.run025992.dat runStart.run025992.dat runStop.run025992.dat
+023968 Missing: runStop.run023968.dat
+023973 Missing: sensorHk023973.root
+025831 Bad ratio: 0.137566       raw: 4372480  /data/exp/ARA/2022/unbiased/SPS-ARA/1016/SPS-ARA-RAW.ARA01.run_025831.flat.tar    Event Data: 601506 B    /data/exp/ARA/2022/unblinded/L1/ARA01/1016/run025831
+025831 Missing: eventHk025831.root sensorHk025831.root runStop.run025831.dat
+024641 Missing: eventHk024641.root sensorHk024641.root runStop.run024641.dat
+025412 Missing: sensorHk025412.root
+026176 Missing: sensorHk026176.root
+024878 Missing: runStop.run024878.dat
+025314 Missing: runStop.run025314.dat
+023648 Missing: sensorHk023648.root runStop.run023648.dat
+024376 Missing: sensorHk024376.root
+024218 Missing: sensorHk024218.root
+024215 Missing: runStop.run024215.dat
+026125 Missing: sensorHk026125.root runStop.run026125.dat
+025901 Missing: sensorHk025901.root
+025208 Missing: runStop.run025208.dat
+025820 Missing: runStop.run025820.dat
+024630 Missing: runStop.run024630.dat
+024468 Missing: runStop.run024468.dat
+026168 Missing: runStop.run026168.dat
+025344 Missing: sensorHk025344.root
+024527 Missing: runStop.run024527.dat
+025012 Missing: runStop.run025012.dat
+025015 Missing: sensorHk025015.root
+024981 Missing: sensorHk024981.root
+024986 Missing: sensorHk024986.root
+024985 Missing: sensorHk024985.root runStop.run024985.dat
+024988 Missing: sensorHk024988.root
+023796 Missing: sensorHk023796.root
+024792 Missing: runStop.run024792.dat
+025642 Missing: runStop.run025642.dat
+025087 Bad ratio: 0.177634       raw: 3430400  /data/exp/ARA/2022/unbiased/SPS-ARA/0727/SPS-ARA-RAW.ARA01.run_025087.flat.tar    Event Data: 609356 B    /data/exp/ARA/2022/unblinded/L1/ARA01/0727/run025087
+025087 Missing: eventHk025087.root sensorHk025087.root runStop.run025087.dat
+023700 Missing: runStop.run023700.dat
+026038 Missing: runStop.run026038.dat
+026039 Missing: sensorHk026039.root runStop.run026039.dat
+024003 Missing: runStop.run024003.dat
+024732 Missing: sensorHk024732.root runStop.run024732.dat
+025549 Missing: runStop.run025549.dat
+025548 Missing: sensorHk025548.root runStop.run025548.dat
+023379 Missing: runStop.run023379.dat
+025473 Missing: sensorHk025473.root runStop.run025473.dat
+023512 Missing: sensorHk023512.root
+024288 Missing: sensorHk024288.root
+024289 Missing: runStop.run024289.dat
+025706 Missing: runStop.run025706.dat
+023556 Missing: runStop.run023556.dat
+025401 Missing: sensorHk025401.root runStop.run025401.dat
+025404 Missing: sensorHk025404.root
+023727 Missing: sensorHk023727.root
+023825 Missing: sensorHk023825.root runStop.run023825.dat
+026021 Missing: runStop.run026021.dat
+025102 Missing: runStop.run025102.dat
+025108 Missing: sensorHk025108.root
+023635 Missing: sensorHk023635.root runStop.run023635.dat
+023636 Missing: sensorHk023636.root
+024415 Missing: sensorHk024415.root runStop.run024415.dat
+026220 Missing: runStop.run026220.dat
+026218 Missing: runStop.run026218.dat
+/data/exp/ARA/2022/unblinded/L1/ARA01/1231/run023288 needs to be moved to: 2021 and 2021-12-31
+024056 Missing: sensorHk024056.root runStop.run024056.dat
+025358 Missing: sensorHk025358.root
+024693 Missing: sensorHk024693.root runStop.run024693.dat
+024949 Missing: sensorHk024949.root
+024042 Missing: runStop.run024042.dat
+026080 Missing: runStop.run026080.dat
+026086 Missing: runStop.run026086.dat
+024301 Missing: sensorHk024301.root runStop.run024301.dat
+024297 Missing: runStop.run024297.dat
+024171 Missing: runStop.run024171.dat
+025790 Missing: sensorHk025790.root
+023902 Missing: runStop.run023902.dat
+024746 Missing: sensorHk024746.root runStop.run024746.dat
+024743 Missing: runStop.run024743.dat
+025449 Missing: sensorHk025449.root
+025202 Missing: sensorHk025202.root
+025200 Missing: sensorHk025200.root
+026100 Missing: sensorHk026100.root
+023457 Missing: eventHk023457.root sensorHk023457.root
+024548 Missing: sensorHk024548.root
+023668 Missing: runStop.run023668.dat
+024306 Missing: runStop.run024306.dat
+024331 Missing: runStop.run024331.dat
+025946 Missing: sensorHk025946.root
+025774 Missing: sensorHk025774.root
+023507 Missing: sensorHk023507.root runStop.run023507.dat
+024904 Missing: sensorHk024904.root runStop.run024904.dat
+025925 Missing: sensorHk025925.root
+025096 Missing: runStop.run025096.dat
+025100 Missing: runStop.run025100.dat
+023624 Missing: runStop.run023624.dat
+024777 Missing: eventHk024777.root sensorHk024777.root
+024772 Missing: sensorHk024772.root runStop.run024772.dat
+024271 Missing: sensorHk024271.root runStop.run024271.dat
+024146 Missing: sensorHk024146.root runStop.run024146.dat
+025302 Missing: sensorHk025302.root runStop.run025302.dat
+025767 Missing: sensorHk025767.root
+025769 Missing: sensorHk025769.root runStop.run025769.dat
+025464 Missing: runStop.run025464.dat
+025460 Missing: sensorHk025460.root
+025462 Missing: sensorHk025462.root
+025461 Bad ratio: 0.132838       raw: 7823360  /data/exp/ARA/2022/unbiased/SPS-ARA/0905/SPS-ARA-RAW.ARA01.run_025461.flat.tar    Event Data: 1039236 B   /data/exp/ARA/2022/unblinded/L1/ARA01/0905/run025461
+025461 Missing: eventHk025461.root sensorHk025461.root runStop.run025461.dat
+024832 Missing: runStop.run024832.dat
+025122 Missing: runStop.run025122.dat
+023439 Missing: sensorHk023439.root
+025027 Missing: sensorHk025027.root
+024912 Missing: sensorHk024912.root
+024909 Missing: runStop.run024909.dat
+024908 Missing: runStop.run024908.dat
+024423 Missing: sensorHk024423.root
+024347 Missing: sensorHk024347.root
+025534 Missing: runStop.run025534.dat
+025500 Missing: runStop.run025500.dat
+024320 Missing: sensorHk024320.root runStop.run024320.dat
+024968 Missing: runStop.run024968.dat
+024967 Missing: runStop.run024967.dat
+024340 Missing: runStop.run024340.dat
